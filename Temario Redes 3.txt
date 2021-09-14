@@ -1,0 +1,104 @@
+Redes 3: Redes empresariales, Seguridad y Automatización (ENSA), Alcance y Secuencia
+
+Temario
+1.- Conceptos de OSPFv2 de área única
+Características y funciones de OSPF
+Paquetes de OSPF
+Funcionamiento de OSPF
+
+2.- Configuración de OSPFv2 de área única
+ID del router OSPF
+Redes punto a punto OSPF
+Redes OSPF de acceso múltiple
+Modificación de OSPFv2 de área única
+Propagación de ruta predeterminada
+Verificación de OSPFv2 de área única
+
+3.- Conceptos de seguridad de la red
+Estado actual de la ciberseguridad
+Agentes de amenazas
+Herramientas de los agentes de amenaza
+Malware
+Ataques de red habituales
+Vulnerabilidades y amenazas de IP
+Vulnerabilidades de TCP y UDP
+Servicios IP
+Mejores prácticas en seguridad de redes
+Criptografía
+
+4.- Conceptos de ACL
+Propósito de las ACL
+Máscaras de comodín en ACL
+Pautas para la creación de ACL
+Tipos de ACL IPv4
+
+5.- Configuración de ACL para IPv4
+Configuración de ACL IPv4 estándar
+Modificación de ACL IPv4
+Protección de puertos VTY con una ACL IPv4 estándar
+Configuración de ACL IPv4 extendidas
+
+6.- NAT para IPv4
+Características de NAT
+Tipos de NAT
+Ventajas de NAT
+Configurar la NAT estática
+Configurar la NAT dinámica
+Configuración de PAT
+NAT64
+
+7.- Conceptos de WAN
+Propósito de las WAN
+Funciones de WAN
+Conectividad de la WAN tradicional
+Conectividad WAN moderna.
+Conectividad basada en Internet
+
+8.- Conceptos de VPN e IPsec
+Tecnología VPN
+Tipos de VPN
+IPSec
+
+9.- Conceptos de QoS
+Calidad de las transmisiones de red
+Características de tráfico
+Algoritmo de formación de colas
+Modelos de QoS
+Técnicas de implementación de QoS
+
+10.- Administración de Redes
+Detección de dispositivos con CDP
+Detección de dispositivos con LLDP
+NTP
+SNMP
+Syslog
+Mantenimiento de archivos del router y del switch
+Administración de imágenes de IOS
+
+11.-Diseño de red
+Redes jerárquicas
+Redes escalables
+Hardware del switch
+Hardware de routers
+
+12.-Resolución de problemas de red
+Documentación de red
+Proceso de resolución de problemas
+Herramientas para la resolución de problemas
+Síntomas y causas de los problemas de red
+Resolución de problemas de conectividad IP
+
+13.- Virtualización de la red
+Computación en la nube
+Virtualización
+Infraestructura de red virtual
+Redes definidas por software
+Controladores
+
+14.- Automatización de la red
+Descripción general de la automatización
+Formato de datos
+⁪API
+⁪REST
+Administración de la configuración
+IBN y Cisco DNA Center

@@ -1,0 +1,100 @@
+Redes 2: Switching, Routing, and Wireless Fundamentals (SRWE), Alcance y Secuencia
+
+Temario
+1.- Configuración básica de dispositivos
+Configuración de parámetros iniciales de un switch
+Configuración de puertos de un switch
+Acceso remoto seguro
+Configuración Básica de un router
+Verificar redes conectadas directamente
+
+2.- Conceptos de switching
+Reenvío de tramas
+Dominios de switching
+
+3.- VLAN
+Descripción general de las VLAN
+Redes VLAN en un entorno conmutado múltiple
+Configuración de VLAN
+Enlaces troncales de la VLAN
+Protocolo de enlace troncal dinámico
+
+4.- Enrutamiento entre VLAN
+Funcionamiento del routing entre redes VLAN
+Routing entre VLAN con router-ona-stick
+Inter-VLAN Routing usando switches de capa 3
+Resolución de problemas de routing entre VLAN
+
+5.- STP
+Propósito del STP
+Funcionamientos del STP
+Evolución del STP
+
+6.- EtherChannel
+Funcionamiento de EtherChannel
+Configuración de EtherChannel
+Verificación y solución de problemas de EtherChannel
+
+7.- DHCPv4
+Conceptos DHCPv4
+Configuración del servidor DHCPv4
+Configuración de cliente DHCPv4
+
+8.- Conceptos SLAAC y DHCPv6 
+Asignación de direcciones de
+unidifusión global IPv6
+SLAAC
+DHCPv6
+Configurar servidor DHCPv6
+
+9.- Conceptos de FHRP	
+First Hop Redundancy Protocol
+HSRP
+
+10.- Conceptos de seguridad de LAN
+Seguridad de punto final
+Control de acceso
+Amenazas a la seguridad de capa 2
+Ataque de tablas de direcciones MAC
+Ataques a la LAN
+
+11.- Configuración de seguridad de switch
+Implementación de seguridad de puertos
+Mitigación de ataques de VLAN
+Mitigación de Ataques de DHCP
+Mitigación de Ataques de ARP
+Mitigación de Ataques de STP
+
+12.- Conceptos de WLAN
+Introducción a la tecnología inalámbrica
+Componentes de las WLAN
+Funcionamiento de WLAN
+Funcionamiento de CAPWAP
+Administración de canales
+Amenazas a la WLAN
+WLAN seguras
+
+13.- Configuración de WLAN
+Configuración de WLAN del sitio remoto
+Configure un WLC en el WLC
+Configure una red inalámbrica WLAN WPA2 Enterprise en el WLC
+Solución de Problemas de WLAN
+
+14.- Conceptos de enrutamiento
+Determinación de ruta
+Reenvío de Paquetes
+Configuración básica de un router
+Tabla de routing IP
+Enrutamiento estático y dinámico
+
+15.- Rutas IP estáticas
+Rutas Estáticas
+Configuración de rutas estáticas IP
+Configuración de rutas estáticas predeterminadas IP
+Configuración de rutas estáticas flotantes
+Configuración de rutas de host estáticas
+
+16.- Resuelva problemas de rutas estáticas y predeterminadas
+Procesamiento de paquetes con rutas estáticas
+Resuelva problemas de configuración de rutas estáticas y predeterminadas IPv4
+
